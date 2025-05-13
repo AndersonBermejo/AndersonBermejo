@@ -2,7 +2,7 @@
 
 Este repositório contém uma aplicação Streamlit para cadastrar e listar produtos, utilizando um banco de dados SQL Server para armazenar as informações. A aplicação permite aos usuários inserir detalhes de produtos (nome, preço, descrição e imagem) e exibi-los em um formato organizado.
 
-## Prints da Aplicação
+## Prints da Aplicação ###
 
 ### FUNCIONAMENTO DA APLICAÇÃO MAIN - UTILIZANDO O COMANDO "STREAMLIT RUN MAIN.PY"  ###
 
