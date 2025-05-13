@@ -12,27 +12,33 @@ Este repositório contém uma aplicação Streamlit para cadastrar e listar prod
 ### CADASTRANDO PRODUTO ###
 
 ![Cadastrando produto](https://github.com/user-attachments/assets/dbd44f4c-2cd3-4a67-afc1-6df2a356e183)
+
 *Este print mostra o procedimento de cadastramento de produtos.*
 
 ### LISTANDO PRODUTO JÁ CADASTRADO - "PRODUTOS BLUSAS" ###
 
 ![Listando os produtos já cadastrados blusas](https://github.com/user-attachments/assets/6d9a296b-be49-45f1-8605-a5b22187daef)
+
 *Este print esta listando os produtos blusas já cadastrados.*
 
 ![Listando produtos cadastrados calça](https://github.com/user-attachments/assets/315c8e0e-20f8-40a0-989b-fb1dd9d766ac)
+
 *Este print esta listando os produtos calças já cadastrados.*
 
 ![Base de dados SQL server](https://github.com/user-attachments/assets/d61e7dfb-d7cf-4e5d-bf80-76b6174d9b97)
+
 *Este print mostra a base de dados SQL SERVER LOCAL, onde estão os produtos já cadastrados.*
 
 ### Formulário de Cadastro de Produtos ###
 
 ![FORMULARIO CADASTRO DE PRODUTO](https://github.com/user-attachments/assets/69369384-c540-4134-b1dc-5aacdd2c39a8)
+
 *Este print mostra o formulário onde os usuários inserem as informações do produto: Nome, Preço, Descrição e Imagem.*
 
 ### Lista de Produtos Cadastrados ###
 
 ![Lista os produtos cadastrados](https://github.com/user-attachments/assets/6e2a3cc2-7ef5-4465-92c3-539c7618f360)
+
 *Este print exibe a lista de produtos cadastrados, mostrando detalhes como nome, descrição, preço e imagem.*
 
 ## Descrição do Processo
