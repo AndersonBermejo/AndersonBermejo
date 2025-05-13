@@ -31,7 +31,7 @@ Este repositório contém uma aplicação Streamlit para cadastrar e listar prod
 
 ![Base de dados SQL server](https://github.com/user-attachments/assets/5a527ef5-49ef-40c1-ad52-159dfe7db838)
 
-*Este print mostra a base de dados SQL SERVER LOCAL, onde estão os produtos já cadastrados.*
+*Este print mostra a base de dados sqllab1 no SQL SERVER LOCAL, onde estão os produtos já cadastrados, na tabela produtos.*
 
 ### Formulário de Cadastro de Produtos ###
 
