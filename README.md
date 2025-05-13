@@ -21,9 +21,13 @@ Este repositório contém uma aplicação Streamlit para cadastrar e listar prod
 
 *Este print esta listando os produtos blusas já cadastrados.*
 
+### LISTANDO PRODUTO JÁ CADASTRADO - "PRODUTOS CALÇAS" ###
+
 ![Listando produtos cadastrados calça](https://github.com/user-attachments/assets/315c8e0e-20f8-40a0-989b-fb1dd9d766ac)
 
 *Este print esta listando os produtos calças já cadastrados.*
+
+### BASE DE DADOS - SQL SERVER LOCAL ###
 
 ![Base de dados SQL server](https://github.com/user-attachments/assets/d61e7dfb-d7cf-4e5d-bf80-76b6174d9b97)
 
